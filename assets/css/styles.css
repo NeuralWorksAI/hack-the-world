@@ -11,6 +11,10 @@ body {
   overflow-x: hidden;
 }
 
+.s-logo {
+  padding: 20px;
+}
+
 .team-clean,
 .item {
   text-align: center;
