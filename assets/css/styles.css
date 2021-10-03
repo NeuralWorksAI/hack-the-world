@@ -84,3 +84,77 @@ body {
 a:hover {
   color: grey;
 }
+.hacktoberbox{
+  position: absolute;
+  width: 1122px;
+  height: 753px;
+  left: 156px;
+  top: 173px;
+  
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 114px;
+}
+.hacktoberimg{
+  position: absolute;
+  width: 929px;
+  height: 376px;
+  left: 238px;
+  top: 333px;
+
+}
+.hacktobertxt{
+  position: absolute;
+  width: 918px;
+  height: 56px;
+  left: 226px;
+  top: 783px;
+  
+  font-family: Barlow Semi Condensed;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  
+  color: #B53A25;
+}
+.hacktoberbtn{
+  border: none;
+  position: absolute;
+width: 216px;
+height: 40px;
+left: 583px;
+top: 861px;
+
+background: #F74700;
+border-radius: 7px;
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #BFE0B3;
+}
+.hack{
+  position: absolute;
+  background: #F74700;
+  margin-top: 50px;
+  width: 286px;
+height: 60px;
+border-radius: 7px;
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 29px;
+text-align: center;
+color: #ffffff;
+left: 583px;
+border: none;
+}
+.hack:hover{
+  background-color: rgba(168, 170, 170, 0.24);
+  color:#F74700;
+}
