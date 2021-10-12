@@ -158,3 +158,12 @@ border: none;
   background-color: rgba(168, 170, 170, 0.24);
   color:#F74700;
 }
+.community{
+  font-size: 50px;
+}
+.community h1{
+  font-size: 60px;
+  text-align: center;
+  
+  font-family: "Lexend Deca", "Roboto";
+}
