@@ -84,3 +84,12 @@ body {
 a:hover {
   color: grey;
 }
+.community{
+  font-size: 50px;
+}
+.community h1{
+  font-size: 60px;
+  text-align: center;
+  
+  font-family: "Lexend Deca", "Roboto";
+}
